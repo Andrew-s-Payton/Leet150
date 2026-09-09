@@ -2,5 +2,5 @@
 
 read s;
 git add .
-git commit -m "($s)"
+git commit -m "$s"
 git push
